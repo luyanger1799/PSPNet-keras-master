@@ -1,6 +1,6 @@
 # PSPNet-keras-master
-PSPNet的tensorflow + keras实现、
+PSPNet的tensorflow + keras实现<br>
 论文来源于CVPR2017  - 金字塔场景解析网<br>
-采用ResNet50 + 金字塔池化
-数据集为CamVid街景数据集
+采用ResNet50 + 金字塔池化<br>
+数据集为CamVid街景数据集<br>
 
