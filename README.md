@@ -5,3 +5,11 @@ PSPNet的tensorflow + keras实现<br>
 数据集为CamVid街景数据集<br>
 训练直接python train.py<br>
 相关配置参数在config.py文件<br>
+数据集构成：<br>
+dataset:<br>
+    --train<br>
+    --train_labels<br>
+    --val<br>
+    --val_labels<br>
+    --test<br>
+    --test_labels<br>
